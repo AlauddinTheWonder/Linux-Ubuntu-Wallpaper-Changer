@@ -2,6 +2,8 @@
 A bash script for Ubuntu (Linux) OS which will download wallpaper from Bing.com and set that image as your system's wallpaper and lock screen.
 
 ### How to use:
+Replace *YOUR_USERNAME* with actual username of your system.
+
 First of all create a directory under /home/YOUR_USERNAME/Pictures directory with name **_bing_**. So directory path should be **_/home/YOUR_USERNAME/Pictures/bing_**.
 
 Now download or create **bing_image.sh** bash script file inside **_bing_** directory and give it full permission by **777**.
