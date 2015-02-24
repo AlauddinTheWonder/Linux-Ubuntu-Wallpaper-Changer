@@ -20,7 +20,7 @@ First edit cron file by
 
 Then add following line at the end of the file:
 
-`40 13 * * * . /home/YOUR_USERNAME/Pictures/bing/bing_image.sh > /home/YOUR_USERNAME/Pictures/bing/bing.log 2>&1`
+```40 13 * * * . /home/YOUR_USERNAME/Pictures/bing/bing_image.sh > /home/YOUR_USERNAME/Pictures/bing/bing.log 2>&1```
 
 
 And then save and exit editing by pressing **Esc** button and type
